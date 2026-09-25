@@ -127,10 +127,10 @@ with tabs[3]:
     st.markdown("""
     ### 👨‍💻 Project Developer Information
 
-    **Developer Name:** [Your Name Here]  
+    **Developer Name: Neel Shah  
     **Role:** Machine Learning Engineer / Data Scientist  
-    **Email:** [your.email@example.com]  
-    **GitHub / LinkedIn:** [Insert Link]  
+    **Email: [neel122developer@gmail.com]  
+    **GitHub / LinkedIn: https://www.linkedin.com/in/codewith-neel/ 
 
     ---
 
