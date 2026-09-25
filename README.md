@@ -18,10 +18,11 @@ The project includes:
 
 - Data preprocessing
 - Feature selection
+- Model selection
 - Model training
 - Model evaluation
 - Model serialization using Pickle
-- Streamlit deployment
+- Streamlit application
 
 ## Project Structure
 
@@ -29,6 +30,8 @@ The project includes:
 insurance_fraud_ml/
 │
 ├── data/
+│   └── insurance_claims.csv
+│
 ├── app.py
 ├── main.ipynb
 ├── insurance_fraud_model.pkl
